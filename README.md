@@ -6,7 +6,7 @@ I love to create unique Solutions, whether it is Creating a Goverment UID Valida
 I am fueled by passion for understanding the nuances of Project Development and Quick Implementation, and therfore has largely helped me in Developing Syntax-Semantic Analyser (Text Editor), ML Integrated Gym Excercise Model and Effective Map Routing JAVA based Application using Google Maps API from scratch.
 Deep Learning , Data Science and Machine Learning really exictes me, and may dominate my work domain for Years to Come.
 
-###📫 You can find me in many places online, but he may be doing some stuff here https://vedangbhardwaj.com/
+### You can find me in many places online, but he may be doing some stuff here https://vedangbhardwaj.com/ 📫 
 <!--
 **vedang14/vedang14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
