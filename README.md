@@ -1,5 +1,5 @@
 ### Hi I'm Vedang 👋
-I love to develop effective optimized solutions realizing the latent and expressed needs of a solution.
+I love to develop effective optimized solutions realizing the latent and expressed needs of problem domain.
 #### You can find me in many places online, but I may be doing some stuff here https://vedangbhardwaj.com/ 📫 
 <!--
 **vedang14/vedang14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
